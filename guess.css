@@ -1,0 +1,45 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url(!.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#one {
+    background-color: rgb(224, 99, 139);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: large;
+}
+
+.two {
+    text-align: center;
+    margin-top: 5%;
+    font-size: larger;
+}
+
+#three {
+    border: solid 2px black;
+    border-radius: 7px;
+    font-size: large;
+}
+
+#result {
+    color: white;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#score {
+    color: white;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* #overley
+{
+  transition: 0.5sec ease-in-out;
+  z-index: -1;
+} */
